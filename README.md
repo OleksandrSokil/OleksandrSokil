@@ -24,13 +24,13 @@
 ### 🔥 Stats:
 
 <div style="display: flex; justify-content: space-around; align-items: center;">
-  <img height="135px" src="https://github-readme-stats.vercel.app/api?username=OleksandrSokils25416&theme=tokyonight&show_icons=true&hide_title=true&hide_border=true&hide_rank=true&include_all_commits=true&count_private=true&show=prs_merged,prs_merged_percentage&line_height=21&hide=contribs">
-  <img height="135px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OleksandrSokils25416&theme=tokyonight&&hide_title=true&hide_border=true&layout=compact&langs_count=8">
-  <img height="135px" src="https://github-readme-streak-stats.herokuapp.com/?user=OleksandrSokils25416&theme=tokyonight&hide_border=true">
+  <img height="135px" src="https://github-readme-stats.vercel.app/api?username=OleksandrSokil&theme=tokyonight&show_icons=true&hide_title=true&hide_border=true&hide_rank=true&include_all_commits=true&count_private=true&show=prs_merged,prs_merged_percentage&line_height=21&hide=contribs">
+  <img height="135px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OleksandrSokil&theme=tokyonight&&hide_title=true&hide_border=true&layout=compact&langs_count=8">
+  <img height="135px" src="https://github-readme-streak-stats.herokuapp.com/?user=OleksandrSokil&theme=tokyonight&hide_border=true">
 </div>
 
 
 ### 🏆 GitHub Trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=OleksandrSokils25416&theme=onedark&no-bg=true&row=1&column=4&margin-w=15&margin-h=15&title=MultiLanguage,Repositories,Commits,Experience)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=OleksandrSokil&theme=onedark&no-bg=true&row=1&column=4&margin-w=15&margin-h=15&title=MultiLanguage,Repositories,Commits,Experience)](https://github.com/ryo-ma/github-profile-trophy)
 
 
